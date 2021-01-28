@@ -1,5 +1,5 @@
 const vipbot = (prefix) => {
-    return `💎 Brizas-bot vip exclusivo💎
+    return `💎 ALN-BOT vip exclusivo💎
 🔰 *TABELA DE PREÇOS* 🔰
 
 🎉Ensinar a baixar e manusear o bot pelo termux: R$: 35,00 🎉
@@ -14,6 +14,6 @@ const vipbot = (prefix) => {
 
 🔰 *MAIS INFORMAÇÕES* 🔰
 
-Dê: ${prefix}criador para negociar`
+Dê: [ WA.ME/5586988036194 ] para negociar`
 }
 exports.vipbot = vipbot
